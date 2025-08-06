@@ -47,5 +47,39 @@ The linked Java project is a command-line quiz game that:
 | Git            | Version control and deployment   |
 
 ---
+## 🚀 How to Use
 
-## 📁 Folder Structure
+1. Clone or download this repository.
+2. Open `index.html` in any browser.
+3. Customize content as needed for your own Java projects.
+
+---
+
+## 💡 Use Cases
+
+- Portfolio project for Java developers
+- Hosting a Java console project with a web-facing interface
+- Demonstrating backend code with frontend presentation
+
+---
+
+## 📌 Technologies Used
+
+- HTML5
+- CSS3 (inline or external if added)
+
+---
+
+## 🌐 Live Demo
+
+> You can deploy this using GitHub Pages or any static hosting platform.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — feel free to modify and reuse.
+
+---
+
+
